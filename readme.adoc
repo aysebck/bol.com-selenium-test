@@ -1,0 +1,10 @@
+=== Selenium project Bol.com interview assignment
+
+Bol.com offers free shipping on orders with a total order amount that is equal or larger than 20
+euros. This project contains automated front-end tests for this functionality.
+
+==== How to run?
+[source,bash]
+----
+./mvnw clean install
+----
